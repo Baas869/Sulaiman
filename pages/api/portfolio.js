@@ -119,7 +119,7 @@ const portfolio = [
     {
         id: 1,
         projectName: "Book List app",
-        url: "https://b2c.otawix.com/",
+        url: "https://book-list-typescript-app.vercel.app/",
         image: "projects/booklist.png",
         projectDetail: "I developed a Booklist App, a web application for storing and managing book records, using ReactJS, TypeScript, and CSS. Hosted on Vercel, the app features a sleek, user-friendly interface, ensuring efficient and seamless record management for book enthusiasts and professionals alike.",
         technologiesUsed: [
