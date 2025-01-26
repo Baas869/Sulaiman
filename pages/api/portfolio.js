@@ -80,7 +80,7 @@ const portfolio = [
     {
         id: 0,
         projectName: "Data Analysis Portfolio",
-        url: "/domain-expired",
+        url: "https://data-analysis-portfolio.netlify.app/",
         image: "projects/dataPortfolio.png",
         projectDetail: "A data analysis portfolio website using HTML5 and CSS3 to showcase projects and insights effectively. Hosted on GitHub, the site features a clean, responsive layout, highlighting analytical skills and providing easy access to detailed reports and visualizations.",
         technologiesUsed: [
